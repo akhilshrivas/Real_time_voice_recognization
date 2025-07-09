@@ -1,6 +1,6 @@
 # 🎙️ Real-Time Voice Subtitles with Python 🖥️
 
-This project provides **real-time speech-to-text subtitles** using your **microphone and webcam**. It captures voice input, transcribes it using Google's Speech Recognition API, and overlays the spoken text as subtitles on your webcam video feed using OpenCV.
+This project provides **real-time speech-to-text subtitles** using your **microphone and webcam**. It captures voice input, transcribes it using Speech Recognition, and overlays the spoken text as subtitles on your webcam video feed using OpenCV.
 
 ---
 
@@ -74,6 +74,7 @@ Improve error handling and UI
 Akhil Shrivas
 
 GitHub: @akhilshrivas
+Gmail: akhilshrivas0@gmail.com
 
 📜 License
 This project is open-source and available under the MIT License.
