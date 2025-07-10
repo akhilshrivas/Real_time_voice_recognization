@@ -52,10 +52,6 @@ Copy code
 python your_script_name.py
 Press ESC to exit the video window.
 
-📷 Screenshot (optional)
-
-📂 Folder Structure (optional)
-css
 Copy code
 Real_time_voice_recognization/
 ├── main.py
