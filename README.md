@@ -72,5 +72,5 @@ Akhil Shrivas
 GitHub: @akhilshrivas
 Gmail: akhilshrivas0@gmail.com
 
-📜 License
+📜 License.
 This project is open-source and available under the MIT License.
